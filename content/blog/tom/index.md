@@ -1,6 +1,6 @@
 # Why Tom Bombadil Was a Mistake
 
-[< Back Home](/)
+[< Back Home](/static_site_python/)
 
 ![Tom Bombadil image](/static_site_python/images/tom.png)
 

@@ -1,6 +1,6 @@
 # The Unparalleled Majesty of "The Lord of the Rings"
 
-[< Back Home](/)
+[< Back Home](/static_site_python/)
 
 ![LOTR image artistmonkeys](/static_site_python/images/rivendell.png)
 
